@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #BBE2EC;
+    color: #0D9276;
+}
+  
+header {
+    background-color: #40A2E3;
+    color: #FFF6E9;
+    padding: 20px;
+    text-align: center;
+}
+  
+main {
+    max-width: 800px;
+    margin: 20px auto;
+}
+  
+.menu-category {
+    margin-bottom: 40px;
+}
+  
+h1, h2 {
+    font-family: 'Verdana', sans-serif;
+}
+  
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+  
+li {
+    margin-bottom: 10px;
+}
